@@ -1,2 +1,2 @@
 FROM weaveworks/weave-kube:1.9.0
-MAINTAINER Christopherqian <christopherqian@aliyun.com>
+MAINTAINER christopherqian <christopherqian@aliyun.com>
